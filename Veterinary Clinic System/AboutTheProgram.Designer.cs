@@ -439,8 +439,7 @@
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(835, 84);
             this.label7.TabIndex = 17;
-            this.label7.Text = "iCurePet was created with a purpose; to make \r\nevery appointment seamless and org" +
-    "anized.\r\n";
+            this.label7.Text = "iCurePet was created to make every appointment seamless, organized, and easy to manage.";
             this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // panel13
@@ -475,7 +474,7 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(150, 26);
             this.label11.TabIndex = 4;
-            this.label11.Text = "What we do?";
+            this.label11.Text = "What We Do";
             this.label11.Click += new System.EventHandler(this.label11_Click);
             // 
             // panel14
@@ -537,9 +536,7 @@
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(358, 156);
             this.label12.TabIndex = 5;
-            this.label12.Text = "Many clinics struggle \r\nwith disorganized records \r\nand time-consuming paperwork." +
-    " \r\niCurePet improves workflow by \r\nreducing manual processes and \r\nkeeping infor" +
-    "mation accessible.";
+            this.label12.Text = "Many clinics struggle with disorganized records and time-consuming paperwork.\r\niCurePet improves workflow by reducing manual tasks and keeping information easy to access.";
             this.label12.Click += new System.EventHandler(this.label12_Click);
             // 
             // label15
@@ -552,8 +549,7 @@
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(329, 104);
             this.label15.TabIndex = 6;
-            this.label15.Text = "Provides faster transactions, \r\nbetter organization, and a \r\nsmoother experience " +
-    "for both \r\nclinic staff and pet owners.";
+            this.label15.Text = "Provides faster transactions, better organization, and a smoother experience for both clinic staff and pet owners.";
             // 
             // AboutTheProgram
             // 
