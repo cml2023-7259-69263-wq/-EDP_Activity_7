@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ayis\\source\\repos\\Veterinary Clinic System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19928E04-D509-4DC7-B1D1-EC5460C2E2FA}|Veterinary Clinic System\\Veterinary Clinic System.csproj|c:\\users\\ayis\\source\\repos\\veterinary clinic system\\veterinary clinic system\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19928E04-D509-4DC7-B1D1-EC5460C2E2FA}|Veterinary Clinic System\\Veterinary Clinic System.csproj|solutionrelative:veterinary clinic system\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19928E04-D509-4DC7-B1D1-EC5460C2E2FA}|Veterinary Clinic System\\Veterinary Clinic System.csproj|c:\\users\\ayis\\source\\repos\\veterinary clinic system\\veterinary clinic system\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{19928E04-D509-4DC7-B1D1-EC5460C2E2FA}|Veterinary Clinic System\\Veterinary Clinic System.csproj|solutionrelative:veterinary clinic system\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Ayis\\source\\repos\\Veterinary Clinic System\\Veterinary Clinic System\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "Veterinary Clinic System\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\Ayis\\source\\repos\\Veterinary Clinic System\\Veterinary Clinic System\\ReportGenerator.cs",
+              "RelativeToolTip": "Veterinary Clinic System\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:05:00.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportGenerator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ayis\\source\\repos\\Veterinary Clinic System\\Veterinary Clinic System\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "Veterinary Clinic System\\ReportGenerator.cs",
+              "ToolTip": "C:\\Users\\Ayis\\source\\repos\\Veterinary Clinic System\\Veterinary Clinic System\\ReportGenerator.cs [Design]",
+              "RelativeToolTip": "Veterinary Clinic System\\ReportGenerator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:04:51.663Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
