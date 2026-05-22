@@ -561,7 +561,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(329, 26);
             this.label9.TabIndex = 6;
-            this.label9.Text = "3 Consultations  |  2 Vaccines\r\n";
+            this.label9.Text = "6 Consultations  |  2 Vaccines\r\n";
             // 
             // panel13
             // 
@@ -596,7 +596,7 @@
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(89, 46);
             this.label12.TabIndex = 4;
-            this.label12.Text = "179";
+            this.label12.Text = "189";
             // 
             // label11
             // 
